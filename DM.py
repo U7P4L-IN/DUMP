@@ -41,13 +41,13 @@ def login():
 ##     ## ##     ## ##     ## ##        
 ##     ## ##     ## ##     ## ##        
 ########   #######  ##     ## ##        
-[+]====================================================[+]
-[+] CREATED BY   :  U7P4L IN                           [+]
-[+] COUNTRY      :  BANGLADESH                         [+]
-[+] ON GITHUB    :  U7P4L-IN                           [+]
-[+] TOOL STATUS  :  RANDOM CLONING                     [+]
-[+] TOOL VERSION :  0.5                                [+]
-[+]====================================================[+]\n\n\n""")
+[+]==============================================[+]
+[+] CREATED BY   :  U7P4L IN                     [+]
+[+] COUNTRY      :  BANGLADESH                   [+]
+[+] ON GITHUB    :  U7P4L-IN                     [+]
+[+] TOOL STATUS  :  FILE DUMPING                 [+]
+[+] TOOL VERSION :  0.5                          [+]
+[+]==============================================[+]\n\n\n""")
 	cookie = input(f" [{hh}!{P}] cookie : ")
 	try:
 		babas = {"user-agent": "Mozilla/5.0 (Linux; Android 8.1.0; MI 8 Build/OPM1.171019.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.86 Mobile Safari/537.36","referer": "https://www.facebook.com/","host": "business.facebook.com","origin": "https://business.facebook.com","upgrade-insecure-requests" : "1","accept-language": "id-ID,id;q=0.9,en-US;q=0.8,en;q=0.7","cache-control": "max-age=0","accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8","content-type":"text/html; charset=utf-8"}
@@ -87,13 +87,13 @@ def menu():
 ##     ## ##     ## ##     ## ##        
 ##     ## ##     ## ##     ## ##        
 ########   #######  ##     ## ##        
-[+]===============================================[+]
-[+] CREATED BY   :  U7P4L IN                      [+]
-[+] COUNTRY      :  BANGLADESH                    [+]
-[+] ON GITHUB    :  U7P4L-IN                      [+]
-[+] TOOL STATUS  :  FILE DUMPING                  [+]
-[+] TOOL VERSION :  0.4                           [+]
-[+]===============================================[+]""")
+[+]========================================[+]
+[+] CREATED BY   :  U7P4L IN               [+]
+[+] COUNTRY      :  BANGLADESH             [+]
+[+] ON GITHUB    :  U7P4L-IN               [+]
+[+] TOOL STATUS  :  FILE DUMPING           [+]
+[+] TOOL VERSION :  0.4                    [+]
+[+]========================================[+]""")
 	print(f"\n\n\n [{hh}1{P}]. Public dumps\n [{hh}2{P}]. dump fairy tale\n [{hh}3{P}]. dump followers\n [{hh}4{P}]. dump group publik\n [{hh}5{P}]. dump unli akun\n [{hh}6{P}]. dump sesuai kota \n [{hh}7{P}]. setting pemisah file")
 	bas = input(" menu : ")
 	print(f"{P} ─────────────────────────────")
@@ -126,13 +126,13 @@ def dump_kota(t,c,akun,nama):
 ##     ## ##     ## ##     ## ##        
 ##     ## ##     ## ##     ## ##        
 ########   #######  ##     ## ##        
-[+]===============================================[+]
-[+] CREATED BY   :  U7P4L IN                      [+]
-[+] COUNTRY      :  BANGLADESH                    [+]
-[+] ON GITHUB    :  U7P4L-IN                      [+]
-[+] TOOL STATUS  :  FILE DUMPING                  [+]
-[+] TOOL VERSION :  0.4                           [+]
-[+]===============================================[+]""")
+[+]=========================================[+]
+[+] CREATED BY   :  U7P4L IN                [+]
+[+] COUNTRY      :  BANGLADESH              [+]
+[+] ON GITHUB    :  U7P4L-IN                [+]
+[+] TOOL STATUS  :  FILE DUMPING            [+]
+[+] TOOL VERSION :  0.4                     [+]
+[+]=========================================[+]""")
 	try:
 		info = ses.get(f'https://graph.facebook.com/{akun}?&access_token={t}',cookies=c).json()
 		kota = info['hometown']['name']
@@ -393,13 +393,13 @@ def dump_unli(nama,t,c):
 ##     ## ##     ## ##     ## ##        
 ##     ## ##     ## ##     ## ##        
 ########   #######  ##     ## ##        
-[+]===============================================[+]
-[+] CREATED BY   :  U7P4L IN                      [+]
-[+] COUNTRY      :  BANGLADESH                    [+]
-[+] ON GITHUB    :  U7P4L-IN                      [+]
-[+] TOOL STATUS  :  FILE DUMPING                  [+]
-[+] TOOL VERSION :  0.4                           [+]
-[+]===============================================[+]""")
+[+]=========================================[+]
+[+] CREATED BY   :  U7P4L IN                [+]
+[+] COUNTRY      :  BANGLADESH              [+]
+[+] ON GITHUB    :  U7P4L-IN                [+]
+[+] TOOL STATUS  :  FILE DUMPING            [+]
+[+] TOOL VERSION :  0.4                     [+]
+[+]=========================================[+]""")
 	print(f"\n\n\n [{hh}!{P}]  select the type you want to dump")
 	print(f" [{hh}1{P}]. dump first 10008-10005\n [{hh}2{P}].dump first 10005-10001\n [{hh}3{P}]. dump first10001-100005\n [{hh}4{P}]. dump first 100005-100001\n [{hh}5{P}]. dump first 10000009++\n [{hh}6{P}]. setting id manual")
 	afa = input(' menu : ')
