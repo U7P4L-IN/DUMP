@@ -39,7 +39,7 @@ AUTHOR:
 ```
 #### Screenshots:
 
-<p align="center"><img src="name">
+<p align="center"><img src="https://github.com/U7P4L-IN/DUMP/blob/main/IMG_20230320_165858.jpg">
 
 
 #### Tools Languages :
