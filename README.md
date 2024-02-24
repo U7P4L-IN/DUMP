@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=FILE%20DUMPING&fontSize=90&animation=fadeIn&fontAlignY=38&desc=FB%20ID%20FILE%20MAKING%20PYTHON%20TOOLS%20BY%20U7P4L!&descAlignY=51&descAlign=62)
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=FILE%20DUMPING&fontSize=90&animation=fadeIn&fontAlignY=38&desc=FB%20ID%20FILE%20MAKING%20PYTHON%20TOOLS%20BY%20U7P4L!&descAlignY=51&descAlign=62" width="100%"></p>
 
 </p>
    <p align="center">
@@ -14,13 +14,13 @@
    
 <p align="center">
 
-Dumping Fb New Id With Full Name.Single Spilt Automatic Fb Numeric Id Gathering. All Tyep Id Dumping And Automatic One File Save.
+>Dumping Fb New Id With Full Name.Single Spilt Automatic Fb Numeric Id Gathering. All Tyep Id Dumping And Automatic One File Save.
 
 </p>
 
 ## Log In Method - 
-- Log In With Id/Email • WORKING
-- Log In With Cookies • NOT WORKING
+- LOG IN WITHOUT COOKIES & TOKEN
+- LOG IN WITHOUT FB PASSWORD
 
 ## Language</br>
 
@@ -28,34 +28,48 @@ Dumping Fb New Id With Full Name.Single Spilt Automatic Fb Numeric Id Gathering.
 
  </div>
  
-#### INSTALL TOOL ON TERMUX
+### INSTALL TOOL ON TERMUX
 ```python
- pkg update
- pkg upgrade
- pkg install python
- pkg install git
- pip install bs4
- pip install futures
- rm -rf DUMP
- git clone --depth=1 https://github.com/U7P4L-IN/DUMP.git
- cd DUMP
- ls
- python DUMP.py
+apt update && apt upgrade -y
+pkg install git
+pkg install python
+rm -rf DUMP
+git clone --depth=1 https://github.com/U7P4L-IN/DUMP.git
+cd DUMP
+ls
+python DUMP.py
 ```
-### Screenshots:
+<h5 align="center"><b>TERMUX INSTALLATION > </b></h5>
+<p align="center"><img src="/image/demo1.jpg" width="100%"></p>
 
-<p align="center"><img src="https://github.com/U7P4L-IN/DUMP/blob/master/image/GridArt_20231014_084514079.png">
+<p align="center"><img src="/image/demo3.jpg" width="100%"></p>
+
+### Kali Linux / Ubuntu / Parrot OS :
+```python
+sudo apt-get update && apt-get install git
+git clone https://github.com/U7P4L-IN/DUMP.git
+cd DUMP
+ls
+sudo python3 DUMP.py
+```
+<h5 align="center"><b>KALI LINUX > </b></h5>
+
+<p align="center"><img src="./image/demo2.png">
 
 <p align="center">  <a href="https://t.me/AN0NYM0U5_X"><img width="160" height="50" src="https://i.imgur.com/N7AK7XY.png"></a></p>
  
 ## NOTE - 
 - You See Any Error Of This Command.So,Frist Run Termux Setup Command
 
-#### Tools Languages :
+## Tools Languages :
 
-![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=U7P4L-IN&repo=DUMP&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/pin?username=U7P4L-IN&repo=DUMP&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" width="100%"></p>
 
-## Copyright©️ Message
-Copyright ©️ [2023-27] [U7P4L-IN]
+<h5 align="center"><b>DESCRIPTION</b></h5>
 
-All rights reserved. This Python project, along with its code, documentation, and any associated files, is the intellectual property of ANONYMOUS CYBER. You may not reproduce, distribute, or modify the contents of this repository without explicit permission from the owner.
+> [!NOTE]  
+> All the tools are belongs to their copyright owner, and this use is in accordance with the terms and conditions of the copyright holder.
+
+# Give A Star ⭐
+
+> You can also give this repository a star to show more people and they can use this repository
