@@ -18,9 +18,20 @@
 
 </p>
 
-## Log In Method - 
+### Log In Method - 
 - LOG IN WITHOUT COOKIES & TOKEN
 - LOG IN WITHOUT FB PASSWORD
+
+<h3 align="left">TESTED ON > </h3><br>
+
+* Kali Linux
+* Termux
+* Mac os
+* Ubuntu
+* Perrot Sec OS
+
+## Contributing
+Feel Free To Clone This Project. For Major Changes, Please Open An Issue First To Discuss What You Would Like To Change Or Add, Thank You!!.
 
 ## Language</br>
 
@@ -39,10 +50,13 @@ cd DUMP
 ls
 python DUMP.py
 ```
-<h5 align="center"><b>TERMUX INSTALLATION > </b></h5>
-<p align="center"><img src="/image/demo1.jpg" width="100%"></p>
+<p align="center"><img src="./image/carbon.png">
 
-<p align="center"><img src="/image/demo3.jpg" width="100%"></p>
+<h5 align="center"><b>TERMUX INSTALLATION > </b></h5>
+
+<p align="center"><img src="./image/demo1.jpg">
+<p align="center"><img src="./image/demo2.jpg">
+<p align="center"><img src="./image/demo3.jpg">
 
 ### Kali Linux / Ubuntu / Parrot OS :
 ```python
@@ -54,9 +68,10 @@ sudo python3 DUMP.py
 ```
 <h5 align="center"><b>KALI LINUX > </b></h5>
 
-<p align="center"><img src="./image/demo2.png">
+<p align="center"><img src="./image/demo4.png">
+<p align="center"><img src="./image/demo5.png">
 
-<p align="center">  <a href="https://t.me/AN0NYM0U5_X"><img width="160" height="50" src="https://i.imgur.com/N7AK7XY.png"></a></p>
+<p align="center">  <a href="https://t.me/AN0NYM0U5_X"><img width="300" height="100" src="https://i.imgur.com/N7AK7XY.png"></a></p>
  
 ## NOTE - 
 - You See Any Error Of This Command.So,Frist Run Termux Setup Command
@@ -65,11 +80,15 @@ sudo python3 DUMP.py
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/pin?username=U7P4L-IN&repo=DUMP&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" width="100%"></p>
 
+# Report bugs
+If you notice issues while installing this tool or running this tool kindly mail to me at <a href="mailto: lisame0007@gmail.com">Gmail</a> or Open an issue via github.
+
 <h5 align="center"><b>DESCRIPTION</b></h5>
 
-> [!NOTE]  
-> All the tools are belongs to their copyright owner, and this use is in accordance with the terms and conditions of the copyright holder.
-
+* ©️ Copyright Message
+>> Copyright © [2023-27] [U7P4L-IN]
+>All rights reserved. This Python project, along with its code, documentation, and any associated files, is the intellectual property of ANONYMOUS CYBER. You may not reproduce, distribute, or modify the contents of this repository without explicit permission from the owner.
 # Give A Star ⭐
 
-> You can also give this repository a star to show more people and they can use this repository
+> You can also give this repository a star to show more people and they can use this repository.
+
