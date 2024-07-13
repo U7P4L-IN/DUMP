@@ -70,6 +70,7 @@ sudo python3 DUMP.py
 
 <p align="center"><img src="./image/demo4.png">
 <p align="center"><img src="./image/demo5.png">
+<p align="center"><img src="./image/demo6.png">
 
 <p align="center">  <a href="https://t.me/AN0NYM0U5_X"><img width="300" height="100" src="https://i.imgur.com/N7AK7XY.png"></a></p>
  
